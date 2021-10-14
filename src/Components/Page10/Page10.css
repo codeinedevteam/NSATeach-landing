@@ -1,0 +1,57 @@
+.nne{
+    display: flex;
+	justify-self: center;
+	align-items: center;
+	height: 32vh;
+}
+.client-images{
+    height: auto;
+    width: 100% ;
+    display: block;
+
+}
+.img-coffee {
+
+    text-align: left;
+    height: 90px;
+    width: 103px;
+
+    display: block;
+    
+}
+.Page10{
+    height: auto;
+	width: 100%;
+}
+@media (max-width: 800px) {
+    .nne{
+        display: flex;
+        justify-self: right;
+        height:auto;
+        margin-bottom: 20%;
+        margin-top: 20%;
+    }
+    .client-images{
+        height: auto;
+        width: 100% ;
+        display: flex;
+        justify-content: center;
+    
+    
+    }
+    .img-coffee {
+    
+        text-align: left;
+        height: 90px;
+        width: 103px;
+    
+        display: block;
+        
+    }
+    .Page10{
+        height: auto;
+        width: 100%;
+    }
+}
+
+

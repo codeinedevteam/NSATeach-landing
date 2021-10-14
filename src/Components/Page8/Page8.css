@@ -1,0 +1,134 @@
+.Page8 {
+	height: auto;
+	width: 100%;
+	padding: 0 15px 0 15px;
+
+	text-align: left;
+	display: block;
+}
+
+.page8.title-heading {
+	text-align: center;
+
+	width: 100%;
+	display: block;
+}
+.h3 {
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.6px;
+	text-align: center;
+
+	width: 100%;
+}
+.title-border {
+	font-size: 15px;
+	text-align: center;
+	background-color: #06d19c;
+	height: 30px;
+	width: 2px;
+
+	display: block;
+	box-sizing: border-box;
+	background-position: 0% 0%;
+	text-decoration: none solid rgb(37, 37, 37);
+}
+.text-muted {
+	font-size: 15px;
+	line-height: 30px;
+	text-decoration: none solid rgb(134, 142, 150);
+	text-align: center;
+	color: #868e96;
+	height: 60px;
+	width: 100%;
+	max-width: auto;
+	display: block;
+}
+.rowFabox {
+	height: auto;
+	width: 100%;
+	padding: 16px 0 0 0;
+	display: flex;
+}
+
+.faq-count {
+	font-size: 15px;
+	text-align: left;
+	float: left;
+	display: block;
+}
+.textFacount {
+	font-size: 18px;
+	line-height: 36px;
+	text-align: left;
+	word-spacing: 0px;
+	color: #868e96;
+	display: block;
+}
+.faq-content {
+	
+	display: block;
+	overflow: hidden;
+	margin-left: 10%;
+
+}
+.faicon {
+	background-color: #18d8b1;
+	height: 25px;
+	width: 20px;
+	text-align: left;
+	display: block;
+	border: #06d19c;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 10%;
+	margin-top: 2%;
+	
+}
+.helpicon {
+	font-style: italic;
+	color: #fdfdfd;
+	display: inline;
+	box-sizing: border-box;
+	background-color: #18d8b1;
+}
+.helpicon1 {
+	font-style: italic;
+	color: #fdfdfd;
+	display: inline;
+	box-sizing: border-box;
+	background-color: #18d8b1;
+	padding: 10%;
+	font-size: 28px;
+	padding-bottom: 3%;
+	border-radius: 10%;
+}
+.h5fatext {
+	font-size: 18px;
+	width: 100%;
+	margin-top: 6%;
+	display: block;
+	color: #252525;
+	height: auto;
+}
+.faq-desc {
+	color: #868e96;
+	height: auto;
+	font-size: 15px;
+	line-height: 30px;
+	padding-bottom: 4%;
+	text-align: left;
+	width: 100%;
+	border-bottom: 1px solid #f0f0f0;
+	display: block;
+}
+.faq-desc36 {
+	color: #868e96;
+	height: auto;
+	font-size: 15px;
+	line-height: 30px;
+	padding-bottom: 4%;
+	text-align: left;
+	width: 100%;
+	display: block;
+}

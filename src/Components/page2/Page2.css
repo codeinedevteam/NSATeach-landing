@@ -1,0 +1,149 @@
+.page2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 22.5px;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+	background-position: 0% 0%;
+	color: #252525;
+	height:auto;
+	width: 100%;
+	max-width: auto;
+	display: block;
+	
+
+}
+.textCards{
+	
+	line-height: 30px;
+	color: #868E96;
+}
+
+.page2.title-heading {
+	text-align: center;
+	height: auto;
+width: 100%;
+	display: block;
+}
+.h3 {
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.6px;
+	text-align: center;
+	width: 100%;
+}
+.title-border {
+	font-size: 15px;
+	text-align: center;
+	background-color: #416e62;
+	height: 2px;
+	width: 30px;
+	display: block;
+	box-sizing: border-box;
+	background-position: 0% 0%;
+	text-decoration: none solid rgb(182, 8, 8);
+}
+.text-muted {
+	font-size: 15px;
+	line-height: 30px;
+	text-decoration: none solid rgb(134, 142, 150);
+	text-align: center;
+	color: #868e96;
+
+	max-width: auto;
+	display: block;
+	width: 100%;
+}
+.boxCard1 {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-justify: inter-word;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+	background-color: #ffffff;
+	height: auto;
+	width: 100%;
+	display: flex;
+	margin-top: 6%;
+}
+.boxCard2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-justify: inter-word;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+	background-color: #ffffff;
+	height: auto;
+	width: 100%;
+	display: flex;
+	margin-bottom:28%;
+	margin-top: 6%;
+}
+
+.Cardbody {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 22.5px;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+	background-color: #ffffff;
+	color: #252525;
+	height: auto;
+	min-height: auto;
+	width: 100%;
+	max-width: 100%;
+	min-width: auto;
+	display: block;
+}
+.services-box {
+	text-align: left;
+	height: 207px;
+
+	display: block;
+}
+.h5Text {
+	font-size: 18px;
+	font-weight: 500;
+	text-align: left;
+	text-justify: inter-word;
+	width: 100%;
+	margin-left: 40px;
+	padding-top: 10px;
+	display: block;
+}
+.numberHeaderCard {
+	font-size: 20px;
+	line-height: 40px;
+	text-decoration: none solid rgb(134, 142, 150);
+	text-align: left;
+	word-spacing: 0px;
+	color: #868e96;
+	height: 40px;
+
+	display: block;
+}
+.notebook {
+	font-size: 25px;
+	color: #06d16c;
+	height: 36px;
+	width: 36px;
+	display: inline-block;
+}
+.textCard {
+	text-justify: inter-word;
+	font-size: 15px;
+	text-decoration: none solid rgb(134, 142, 150);
+	text-align: justify;
+	color: #868e96;
+	height: 90px;
+	width: 100%;
+
+	display: block;
+}
+@media (max-width: 600px) {
+	
+}

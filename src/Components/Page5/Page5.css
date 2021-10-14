@@ -1,0 +1,149 @@
+.Page5{
+    font-size: 15px;
+	line-height: 22.5px;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+	background-position: 0% 0%;
+	color: #252525;
+	height: auto;
+	width: 100%;
+	padding: 0 15px 0 15px;
+    display: block;
+
+}
+.father{
+	display: flex;
+	justify-self: center;
+	align-items: center;
+
+}
+.Page5 .splide__pagination__page {
+	border: 2px solid #56c190;
+	background-color: transparent;
+	color: #56c190;
+}
+.Page5 .splide__pagination__page.is-active {
+	background-color: #56c190;
+}
+
+.Page5 .splide__pagination {
+	top: 90%;
+	left: 49%;
+}
+.Page5 .splide__pagination__page {
+	margin-left: 10px;
+}
+.mtSlider{
+	margin-top: 2%;
+
+}
+
+.page3.title-heading {
+	text-align: center;
+	height: auto;
+	width: 100%;
+    display: block;
+}.h3 {
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.6px;
+	text-align: center;
+	width: 100%;
+}
+.title-border {
+	font-size: 15px;
+	text-align: center;
+	background-color: #06d19c;
+	height: 35px;
+	width: 2px;
+	margin: 30px 540px 0 540px;
+	display: block;
+	box-sizing: border-box;
+	background-position: 0% 0%;
+	text-decoration: none solid rgb(37, 37, 37);
+}
+.text-muted {
+	font-size: 15px;
+	line-height: 30px;
+	text-decoration: none solid rgb(134, 142, 150);
+	text-align: center;
+	color: #868e96;
+	height: auto;
+	width: 100%;
+
+	max-width:auto;
+	display: block;
+}
+.SliderContent{
+    text-align: left;
+    height: auto;
+    width: 100%;
+	display: flex;
+	padding: 0;
+
+}
+.client-img{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+
+}
+.img-person{
+    height: 200px;
+    width: 200px;
+	
+	margin-bottom: 0;
+	text-align: center;
+}
+.texth2{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #252525;
+    height: auto;
+    width: 100%;
+    display: block;
+	font-weight: 500;
+	margin-top: 0%;
+}
+.Ptext{
+    font-size: 18px;
+    line-height: 36px;
+    font-family: sans-serif;
+    color: #868e96;
+    height:auto;
+    width: 100%;
+	display: block;
+	text-align: center
+}
+.footerSlider{
+    font-size: 15px;
+    text-align: center;
+    height: auto;
+    width: 100%;
+  
+	display: block;
+	margin-top: 0;
+}
+.h6text{
+font-size: 16px;
+font-weight: 500;
+text-align: center;
+color: #06d19c;
+
+width: 100%;
+display: block;
+margin-top: 0;
+
+}
+.pFooter{
+    text-align: center;
+    font-size: 15px;
+
+    width: 100%;
+    color: #868e96;
+	display: block;
+	margin-top: 0;
+}

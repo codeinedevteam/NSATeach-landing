@@ -1,0 +1,381 @@
+.Main .splide__pagination__page {
+	border: 2px solid #5fd29d;
+	background-color: transparent;
+}
+.Main .splide__pagination__page.is-active {
+	background-color: #56c190;
+}
+
+.Main .splide__pagination {
+	top: 90%;
+	left: 51%;
+}
+.Main .splide__pagination__page {
+	margin-left: 10px;
+}
+
+.imageMain {
+	height: auto;
+	width: 100%;
+	opacity: 1;
+}
+.rowParent {
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	height: 100vh;
+}
+.colLg {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 22.5px;
+	text-decoration: none solid rgb(37, 37, 37);
+	text-align: left;
+	word-spacing: 0px;
+}
+.home-title {
+	line-height: 67.2px;
+	font-family: sans-serif;
+	font-size: 48px;
+	font-weight: 500;
+	text-decoration: none solid rgb(255, 255, 255);
+	text-align: center;
+	word-spacing: 0px;
+	background-position: 0% 0%;
+	color: #ffffff;
+	height: auto;
+	width: 100%;
+	display: block;
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+}
+.home-desc-2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none solid rgb(255, 255, 255);
+	line-height: 30px;
+	text-align: center;
+	word-spacing: 0px;
+	height: auto;
+	width: 100%;
+	display: block;
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+
+	margin-bottom: 0;
+}
+.home-desc-2-custum1 {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none solid rgb(255, 255, 255);
+	line-height: 30px;
+	text-align: center;
+	word-spacing: 0px;
+	height: auto;
+	width: 100%;
+	display: block;
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+}
+.home-desc-2-custum2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none solid rgb(255, 255, 255);
+	line-height: 30px;
+	text-align: center;
+	word-spacing: 0px;
+	height: auto;
+	width: 100%;
+
+	display: block;
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+}
+.btndivre {
+	text-align: center;
+	margin-top: 5%;
+}
+.btn-custom {
+	
+	font-family: sans-serif;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	text-decoration: none solid rgb(255, 255, 255);
+	text-align: center;
+	word-spacing: 0px;
+	background-color: #06d19c;
+	background-position: 0% 0%;
+	color: #ffffff;
+	height: 50px;
+	width: 180px;
+	padding-top: 1.3%;
+	display: inline-block;
+	cursor: pointer;
+	transform: none;
+	box-sizing: border-box;
+	border-radius: 30px;
+	
+}
+.text-uppercase {
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+
+	text-decoration: none solid rgb(255, 255, 255);
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: 0px;
+	color: #ffffff;
+	height: auto;
+	width: auto;
+
+	display: inline;
+}
+
+.text-customIcon {
+	display: inline-flex;
+	width: 45px;
+	height: 45px;
+	background-color: rgb(255, 255, 255);
+	border-radius: 50%;
+	text-align: center;
+}
+.text-custom {
+	font-size: 15px;
+	line-height: 45px;
+	text-align: center;
+	word-spacing: 0px;
+	color: #06d19c;
+	cursor: pointer;
+	box-sizing: border-box;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.mouse_down {
+	text-align: center;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 5%;
+}
+.imagemouse {
+	width: 40px;
+}
+.section3 {
+	background-color: #fafafa;
+	height: auto;
+	width: 100%;
+	border-bottom: 1px solid #f0f0f0;
+	display: block;
+}
+.section2 {
+	width: 100%;
+	height: auto;
+	border-bottom: 1px solid #f0f0f0;
+}
+.Page4 {
+	overflow-x: hidden;
+	text-align: center;
+	height: 50vh;
+	width: 100%;
+	display: block;
+	background-image: url(https://themesdesign.in/readxon/layouts/images/bg-1.jpg);
+	background-position: 50% 50%;
+}
+.btn-customText {
+	font-family: sans-serif;
+	font-size: 10px;
+	letter-spacing: 0.5px;
+	text-decoration: none solid rgb(255, 255, 255);
+	text-align: center;
+	word-spacing: 0px;
+	background-color: #06d19c;
+	background-position: 0% 0%;
+	color: #ffffff;
+	height: 50px;
+	width: 180px;
+	display: inline-block;
+	cursor: pointer;
+	transform: none;
+	box-sizing: border-box;
+	border-radius: 30px;
+	padding-top: 1%;
+}
+
+.section5 {
+	height: auto;
+	width: 100%;
+	border-bottom: 1px solid #f0f0f0;
+
+	overflow-x: hidden;
+}
+.section6 {
+	background-color: #fafafa;
+	height: auto;
+	width: 100%;
+	border-bottom: 1px solid #f0f0f0;
+	display: block;
+	overflow-x: hidden;
+}
+.Page7 {
+	text-align: left;
+	height: auto;
+	width: 100%;
+	display: block;
+	background-image: url(https://themesdesign.in/readxon/layouts/images/bg-2.jpg);
+	background-position: 45% 45%;
+	opacity: 1;
+}
+.imagelayout7 {
+	height: auto;
+	width: 100%;
+	background-color: rgba(36, 42, 53, 0.7);
+	opacity: 1;
+	overflow-x: hidden;
+}
+.imageMainLayout {
+	background-color: rgba(36, 42, 53, 0.7);
+	height: auto;
+	width: 100%;
+	opacity: .9;
+	overflow-x: hidden;
+}
+.section1 {
+	height: auto;
+	width: 100%;
+	background-image: url(https://themesdesign.in/readxon/layouts/images/bg-4.jpg);
+	background-position: 50% 50%;
+	overflow-x: hidden;
+}
+.section8 {
+	height: auto;
+	width: auto;
+	border-bottom: 1px solid #f0f0f0;
+
+	display: block;
+	background-color: #ffffff;
+	overflow-x: hidden;
+}
+.section9 {
+	text-align: left;
+	height: auto;
+	width: auto;
+	border-bottom: 1px solid #f0f0f0;
+	box-sizing: border-box;
+	background-color: #fafafa;
+	overflow-x: hidden;
+}
+.section10 {
+	text-align: left;
+	height: auto;
+	width: auto;
+	display: block;
+	background-image: url(https://themesdesign.in/readxon/layouts/images/bg-3.jpg);
+	overflow-x: hidden;
+	background-position: 40% 70%;
+}
+.imageLayout10 {
+	height: 330px;
+	width: auto;
+	background-color: rgba(36, 42, 53, 0.7);
+	opacity: 1;
+	overflow-x: hidden;
+}
+.section11 {
+	height: auto;
+	width: auto;
+	display: block;
+	border-bottom: 1px solid #f0f0f0;
+	text-align: left;
+	background-color: #ffffff;
+	overflow-x: hidden;
+}
+.Footer {
+	height: auto;
+	width: auto;
+	background-color: #252525;
+	padding: 80px 0 40px 0;
+	display: block;
+	overflow-x: hidden;
+}
+@media (max-width: 800px) {
+	.home-title {
+		line-height: 40.2px;
+		font-family: sans-serif;
+		font-size: 38px;
+		font-weight: 500;
+		text-decoration: none solid rgb(255, 255, 255);
+		text-align: center;
+		word-spacing: 0px;
+		background-position: 0% 0%;
+		color: #ffffff;
+		height: auto;
+		width: 100%;
+		display: block;
+		transform: none;
+		transition: all 0s ease 0s;
+		box-sizing: border-box;
+	}
+	.section10 {
+		text-align: center;
+		height: auto;
+		width: auto;
+		display: block;
+		background-image: url(https://themesdesign.in/readxon/layouts/images/bg-3.jpg);
+		overflow-x: hidden;
+		background-position: 40% 70%;
+	}
+	.Page7 {
+		text-align: left;
+		height: 60vh;
+		width: 100%;
+		display: block;
+		background-image: url(https://themesdesign.in/readxon/layouts/images/bg-2.jpg);
+		background-position: 45% 45%;
+		overflow-x: hidden;
+	}
+	.btn-customText {
+		font-family: sans-serif;
+		font-size: 10px;
+		letter-spacing: 0.5px;
+		text-decoration: none solid rgb(255, 255, 255);
+		text-align: center;
+		word-spacing: 0px;
+		background-color: #06d19c;
+		background-position: 0% 0%;
+		color: #ffffff;
+		height: 50px;
+		width: 180px;
+		display: inline-block;
+		cursor: pointer;
+		transform: none;
+		box-sizing: border-box;
+		border-radius: 30px;
+		padding-top: 3%;
+	}
+	.btn-custom {
+	
+		font-family: sans-serif;
+		font-size: 15px;
+		letter-spacing: 0.5px;
+		text-decoration: none solid rgb(255, 255, 255);
+		text-align: center;
+		word-spacing: 0px;
+		background-color: #06d19c;
+		background-position: 0% 0%;
+		color: #ffffff;
+		height: 50px;
+		width: 180px;
+		padding-top: 3%;
+		display: inline-block;
+		cursor: pointer;
+		transform: none;
+		box-sizing: border-box;
+		border-radius: 30px;
+		
+	}
+}
